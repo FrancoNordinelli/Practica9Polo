@@ -1,0 +1,6 @@
+DATOS BASE DE DATOS
+nombre bd: pelu_canina
+usuario: root
+contraseña:
+puerto:3306
+Url:localhost:3306/pelu_canina
